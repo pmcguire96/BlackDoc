@@ -97,6 +97,8 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
+    wdm (0.1.1)
+    webrick (1.7.0)
 
 PLATFORMS
   ruby
@@ -106,6 +108,8 @@ DEPENDENCIES
   bundler (~> 1.12)
   jekyll-theme-blackdoc!
   kramdown-parser-gfm
+  wdm (>= 0.1.0)
+  webrick
 
 BUNDLED WITH
    1.17.3
