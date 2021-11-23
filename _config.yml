@@ -12,7 +12,7 @@ baseurl:          "Portfolio"
                   # This will apply to all pages in your Jekyll site.
 
 author:
-  name:           Patrick McGuire
+  name:           Patrick McGuire III
   url:            https://pmcguire96.github.io
 
 paginate:         5
